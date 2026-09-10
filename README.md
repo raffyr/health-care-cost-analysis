@@ -20,7 +20,7 @@ Este projeto apresenta uma análise dos custos de saúde dos colaboradores de um
 - O tabagismo foi o fator mais associado aos custos de saúde.
 - Idade e IMC apresentaram associação positiva com os custos.
 - A inclusão da variável fumante aumentou significativamente o poder explicativo do modelo.
-- Os resultados podem apoiar ações de prevenção e promoção da saúde.
+- Os resultados podem apoiar ações de prevenção, promoção da saúde e redução de custos.
 
 ## Arquivos do projeto
 
